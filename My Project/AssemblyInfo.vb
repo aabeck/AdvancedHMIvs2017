@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("AdvancedHMIControls")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("AdvancedHMIControls")> 
-<Assembly: AssemblyCopyright("Copyright ©  2014,2015,2016")> 
+<Assembly: AssemblyTitle("AdvancedHMI")> 
+<Assembly: AssemblyDescription("HMI Construction Tool Kit")> 
+<Assembly: AssemblyCompany("Manufacturing Automation, LLC")> 
+<Assembly: AssemblyProduct("AdvancedHMI")>
+<Assembly: AssemblyCopyright("Copyright ©  2011,2012,2013,2014,2015,2016,2017")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("842adf2d-ae4c-4bf0-ac00-0eb5dc4914cd")>
+<Assembly: Guid("a2c6d6cf-2328-4757-8ce8-7ef33c63a5b1")>
 
 ' Version information for an assembly consists of the following four values:
 '
